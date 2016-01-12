@@ -1,5 +1,4 @@
 new TL.Timeline('timeline', {
-  title: 'Revolutionary Feminism',
   events: [
     {
       start_date: { year: 1884 },
